@@ -1,0 +1,16 @@
+measure,operationalization,n,agreement,kappa,coder_1_positive,coder_2_positive
+Direct conflict relevance,Target versus rest,50,0.84,0.6219281663516067,37.0,33.0
+Conflict relevance,Exact categories,50,0.8,0.5755517826825128,,
+Event context,Exact categories,50,0.7,0.6004262120404901,,
+Event modality,Exact categories,50,0.88,0.5702005730659024,,
+Matched-actor role,Exact categories,50,0.66,0.5526315789473685,,
+Event-time relation,Exact categories,50,0.88,0.6173469387755101,,
+Main-story physical violence,Target versus rest,50,0.94,0.8598130841121494,15.0,16.0
+Main-story fatalities,Target versus rest,50,0.88,0.6881496881496881,13.0,13.0
+Main-story injuries,Target versus rest,50,0.94,0.6963562753036434,7.0,4.0
+Main-story weapon-use class,Exact categories,46,0.6956521739130435,0.42806394316163404,,
+Physical violence mentioned anywhere,Target versus rest,50,0.86,0.38162544169611284,44.0,43.0
+Fatalities mentioned anywhere,Target versus rest,50,0.94,0.8648648648648648,35.0,32.0
+Injuries mentioned anywhere,Target versus rest,49,0.9591836734693877,0.8955223880597014,14.0,12.0
+Weapon mentioned anywhere,Target versus rest,47,0.8085106382978723,0.607242339832869,21.0,18.0
+Main-story confidence,Exact categories,50,0.56,0.1839762611275965,,

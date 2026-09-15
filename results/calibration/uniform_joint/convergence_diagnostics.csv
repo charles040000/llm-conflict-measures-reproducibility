@@ -1,0 +1,4 @@
+variable,divergences,max_r_hat_global,min_effective_sample_size_global,mle_success,mle_iterations,mle_minimum_hessian_eigenvalue,maximum_battaglia_adjustment_eigenvalue,bcm_valid
+direct_conflict_relevance,0,1.0037612188534608,993.4183108156692,True,119,1.1786302356878715,0.16923358974794672,True
+physical_violence,0,1.002406241718958,764.7264113045102,True,79,1.2035581592649585,0.1340804447610551,True
+fatalities_present,0,1.0080026250651761,674.9222692538809,True,79,1.169359542597455,0.1765182262471304,True

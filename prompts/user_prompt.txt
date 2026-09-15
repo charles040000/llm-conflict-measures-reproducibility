@@ -1,0 +1,17 @@
+Label the following article using the schema from the system prompt.
+
+Matched actor metadata:
+- GlobalEventID: {GlobalEventID}
+- matched actor name(s): {matched_actor_names}
+- matched actor side: {matched_actor_side}
+- matched actor alias terms in text: {matched_actor_alias_terms_in_text}
+- Actor1Name: {Actor1Name}
+- Actor2Name: {Actor2Name}
+- Actor1CountryCode: {Actor1CountryCode}
+- Actor2CountryCode: {Actor2CountryCode}
+- ActionGeo_CountryCode: {ActionGeo_CountryCode}
+- source month: {source_month}
+- source URL: {final_url}
+
+Article text:
+{article_text}

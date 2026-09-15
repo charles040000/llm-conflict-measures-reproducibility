@@ -1,0 +1,22 @@
+{
+  "outcome": "log(1 + actor-linked UCDP fatalities) at horizons -2 to +2",
+  "period_length": "two weeks",
+  "minimum_articles": 20,
+  "hac_lags": 6,
+  "validation_bootstrap_repetitions": 1000,
+  "controls": [
+    "log1p_n_articles",
+    "time_years",
+    "taliban_outcome_transition_aug2021",
+    "taliban_outcome_post_takeover",
+    "hamas_outcome_post_oct2023"
+  ],
+  "actor_fixed_effects": true,
+  "lagged_fatality_controls": false,
+  "balanced_sample_n": 352,
+  "actor_counts": {
+    "FARC family": 62,
+    "Hamas": 141,
+    "Taliban": 149
+  }
+}

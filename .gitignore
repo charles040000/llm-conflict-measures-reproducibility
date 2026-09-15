@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.mplconfig/
+config/service_account_key.json
+data/raw/
+data/external/*.csv
+data/translation/
+results/labels/
+results/labeling_evaluation/
+results/manual_labels_working.csv

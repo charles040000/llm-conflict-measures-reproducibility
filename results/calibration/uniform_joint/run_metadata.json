@@ -1,0 +1,50 @@
+{
+  "sample": "non-overlapping two-week actor periods with at least 20 articles",
+  "n": 360,
+  "actor_counts": {
+    "FARC family": 64,
+    "Hamas": 144,
+    "Taliban": 152
+  },
+  "history_controls": [
+    "fatalities in period t",
+    "fatalities in period t-1",
+    "fatalities in period t-2"
+  ],
+  "hac_lags": 6,
+  "validation_n": 159,
+  "validation_restriction": {
+    "validation_rows_before_actor_restriction": 173,
+    "validation_rows_after_actor_restriction": 159,
+    "validation_rows_excluded": 14,
+    "validation_actor_counts": {
+      "Hamas": 78,
+      "Taliban": 52,
+      "FARC family": 29
+    },
+    "article_actor_linkage": {
+      "n_unique_articles_before_remaining_multi_actor_exclusion": 117172,
+      "n_article_analysis_actor_rows_before_remaining_multi_actor_exclusion": 117536,
+      "n_remaining_multi_actor_articles_after_grouping": 272,
+      "n_remaining_multi_actor_article_rows_after_grouping": 636,
+      "exclude_remaining_multi_actor_articles": true,
+      "n_unique_articles_used_for_llm_actor_month": 116900,
+      "n_article_analysis_actor_rows_used_for_llm_actor_month": 116900,
+      "n_excluded_remaining_multi_actor_articles": 272
+    }
+  },
+  "joint_model": {
+    "latent_share": "Uniform(0,1)",
+    "measurement": "Binomial(C, beta0 + (beta1-beta0)*theta)",
+    "outcome": "Gaussian log1p fatalities with baseline controls",
+    "beta0_prior": "Beta(2,5)",
+    "beta1_prior": "Beta(5,2)",
+    "coefficient_prior": "Normal(0,10 SD)",
+    "sigma_prior": "Gamma(1,10 rate)",
+    "orientation": "beta1 > beta0",
+    "warmup": 1000,
+    "samples_per_chain": 2000,
+    "chains": 4,
+    "target_accept": 0.9
+  }
+}

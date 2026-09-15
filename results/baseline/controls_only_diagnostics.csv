@@ -1,0 +1,2 @@
+model_id,n,actors,parameters,rank,condition_number,r2,adjusted_r2,rmse,mean_actor_residual_ar1,hac_lags,month_effects,signal_wald_statistic,signal_wald_df,signal_wald_p
+controls_only,360,3,11,11,168.81056883486278,0.8747744202422495,0.8711862947477581,0.9073098690545581,0.03861027049897625,6,False,,0,

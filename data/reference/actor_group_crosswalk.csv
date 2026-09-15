@@ -1,0 +1,12 @@
+analysis_actor_key,analysis_actor_name,representative_ucdp_actor_id,constituent_ucdp_actor_id,constituent_actor_name,group_note
+group:farc_bloc,FARC / FARC dissidents,743,743,FARC,Collapse FARC family/splinter actors for actor-month analysis.
+group:farc_bloc,FARC / FARC dissidents,743,7974,Frente Oliver Sinisterra,Collapse FARC family/splinter actors for actor-month analysis.
+group:farc_bloc,FARC / FARC dissidents,743,8468,FARC-EMC,Collapse FARC family/splinter actors for actor-month analysis.
+group:farc_bloc,FARC / FARC dissidents,743,8469,FARC - Segunda Marquetalia,Collapse FARC family/splinter actors for actor-month analysis.
+group:farc_bloc,FARC / FARC dissidents,743,8478,Comandos de la Frontera,Collapse FARC family/splinter actors for actor-month analysis.
+group:janjaweed_family,Janjaweed family,630,628,Janjaweed - Moro faction,Collapse Janjaweed faction variants for actor-month analysis.
+group:janjaweed_family,Janjaweed family,630,629,Janjaweed - Bin Kulaib faction,Collapse Janjaweed faction variants for actor-month analysis.
+group:janjaweed_family,Janjaweed family,630,630,Janjaweed,Collapse Janjaweed faction variants for actor-month analysis.
+group:slma_family,SLM/A family,469,469,SLM/A,Collapse Sudan Liberation Movement/Army variants for actor-month analysis.
+group:slma_family,SLM/A family,469,471,SLM/A - MM,Collapse Sudan Liberation Movement/Army variants for actor-month analysis.
+group:slma_family,SLM/A family,469,472,SLM/A-Unity,Collapse Sudan Liberation Movement/Army variants for actor-month analysis.

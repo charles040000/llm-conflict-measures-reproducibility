@@ -1,0 +1,4 @@
+variable,n,clipped_low,clipped_high,share_clipped
+direct_conflict_relevance,360,0,42,0.11666666666666667
+physical_violence,360,18,0,0.05
+fatalities_present,360,48,0,0.13333333333333333

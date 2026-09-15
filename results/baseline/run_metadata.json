@@ -1,0 +1,22 @@
+{
+  "panel": "data/processed/actor_period_panel.csv",
+  "observations": 360,
+  "actor_observations": {
+    "FARC family": 64,
+    "Hamas": 144,
+    "Taliban": 152
+  },
+  "minimum_articles": 20,
+  "hac_lags": 6,
+  "outcome": "log1p_y_ucdp_actor_fatalities_next",
+  "controls": [
+    "log1p_y_ucdp_actor_fatalities",
+    "log1p_y_ucdp_actor_fatalities_lag1",
+    "log1p_y_ucdp_actor_fatalities_lag2",
+    "log1p_n_articles",
+    "time_years",
+    "taliban_outcome_transition_aug2021",
+    "taliban_outcome_post_takeover",
+    "hamas_outcome_post_oct2023"
+  ]
+}

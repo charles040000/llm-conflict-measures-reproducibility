@@ -1,0 +1,25 @@
+{
+  "sample_n": 360,
+  "validation": {
+    "validation_rows_before_actor_restriction": 173,
+    "validation_rows_after_actor_restriction": 159,
+    "validation_rows_excluded": 14,
+    "validation_actor_counts": {
+      "Hamas": 78,
+      "Taliban": 52,
+      "FARC family": 29
+    }
+  },
+  "beta_latent_prior": {
+    "mean": "Beta(1,1)",
+    "concentration": "LogNormal(log(2),1)"
+  },
+  "sigma_y_prior": "Gamma(1,10), shape--rate parameterization",
+  "quadrature_nodes": 128,
+  "hmc": {
+    "warmup": 1000,
+    "samples_per_chain": 2000,
+    "chains": 4,
+    "target_accept": 0.92
+  }
+}

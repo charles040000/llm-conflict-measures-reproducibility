@@ -1,0 +1,4 @@
+signal,auxiliary_r2,vif,model_id
+share_direct_conflict_relevance_raw,0.7389925070185641,3.831307632502048,joint_binary_raw
+share_physical_violence_raw,0.7618544902079301,4.199113394466777,joint_binary_raw
+share_fatalities_present_raw,0.6579194964129815,2.9232884935391237,joint_binary_raw

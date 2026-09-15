@@ -1,0 +1,1013 @@
+Assigned_Hiwi,Research_done,Selfcheck_done,Crosscheck_done,Government_side,Do_NSA_specific_research,NSA_UCDP_Name_short,NSA_Name_long,NSA_UCDP_ID,Earliest_year_of_NSA,Latest_year_of_NSA,UCDP_Conflict_ID,UCDP_Dyad_ID,Government_UCDP_ID,Total_battle_deaths_of_country,Total_battle_deaths_of_NSA,Total_bd_of_country_over_median,Order_of_groups_to_do,Comment_NSA_Data_Collection,NSA_Entries,NSA_Entries_Pistols,NSA_Entries_Rifles,NSA_Entries_Machine_guns,NSA_Entries_Heavy_machine_guns,NSA_Entries_Cannon,NSA_Entries_Mortars,NSA_Entries_Missiles,NSA_Entries_Explosives,NSA_Entries_Landmines,NSA_Entries_Tanks,NSA_Entries_Aircraft,NSA_Entries_Artillery,NSA_Entries_Armoured_vehicles,NSA_Entries_Ships
+Alex,yes,no,yes,Government of Ukraine,yes,DPR,Donetsk People's Republic,6711.0,2015.0,2018.0,13306.0,15100.0,61,6588.0,897.0,yes,1.0,,196.0,1.0,7.0,0.0,0.0,8.0,16.0,20.0,1.0,2.0,19.0,5.0,59.0,43.0,0.0
+Alex,yes,no,yes,Government of Ukraine,yes,DPR,Donetsk People's Republic,5840.0,2014.0,2014.0,13246.0,14124.0,61,6588.0,2021.0,yes,2.0,,196.0,1.0,7.0,0.0,0.0,8.0,16.0,20.0,1.0,2.0,19.0,5.0,59.0,43.0,0.0
+Alex,yes,no,yes,Government of Ukraine,yes,LPR,Lugansk People's Republic,6712.0,2015.0,2018.0,13306.0,15101.0,61,6588.0,245.0,yes,3.0,,189.0,3.0,5.0,2.0,1.0,6.0,10.0,27.0,9.0,8.0,25.0,2.0,27.0,40.0,0.0
+Alex,yes,no,yes,Government of Ukraine,yes,LPR,Lugansk People's Republic,5839.0,2014.0,2014.0,13247.0,14184.0,61,6588.0,712.0,yes,4.0,,189.0,3.0,5.0,2.0,1.0,6.0,10.0,27.0,9.0,8.0,25.0,2.0,27.0,40.0,0.0
+Alex,yes,no,yes,Government of Ukraine,yes,Maidan,Euromaidan,5817.0,2014.0,2014.0,13219.0,14085.0,61,6588.0,88.0,yes,5.0,,39.0,5.0,6.0,4.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0
+Alex,yes,no,yes,Government of Ukraine,yes,United Armed Forces of Novorossiya,United Armed Forces of Novorossiya,5914.0,2014.0,2015.0,13306.0,14210.0,61,6588.0,2625.0,yes,6.0,,440.0,4.0,48.0,21.0,9.0,6.0,17.0,77.0,6.0,26.0,34.0,12.0,65.0,86.0,0.0
+Alex,yes,no,yes,Government of Uzbekistan,yes,IMU,Islamic Movement of Uzbekistan,359.0,1999.0,2014.0,415.0,871.0,133,575.0,791.0,no,7.0,,73.0,6.0,13.0,5.0,0.0,0.0,3.0,7.0,20.0,1.0,1.0,0.0,0.0,0.0,0.0
+Alex,yes,no,yes,Government of Uzbekistan,yes,JIG,Jihad Islamic Group,360.0,2004.0,2004.0,415.0,872.0,133,575.0,37.0,no,8.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,no,yes,Government of Bosnia-Herzegovina,yes,Autonomous Province of Western Bosnia,Autonomous Province of Western Bosnia,349.0,1993.0,1995.0,397.0,846.0,50,13454.0,971.0,yes,9.0,,25.0,0.0,5.0,2.0,1.0,0.0,5.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0
+Alex,no,no,no,Government of Bosnia-Herzegovina,no,Croatian irregulars,Croatian irregulars,370.0,1991.0,1994.0,398.0,847.0,50,13454.0,75.0,yes,10.0,,12.0,0.0,0.0,0.0,0.0,1.0,1.0,6.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Alex,yes,no,yes,Government of Bosnia-Herzegovina,yes,Croatian Republic of Bosnia-Herzegovina,Croatian Republic of Bosnia-Herzegovina,350.0,1993.0,1994.0,398.0,848.0,50,13454.0,2604.0,yes,11.0,,6.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0
+Alex,yes,no,yes,Government of Bosnia-Herzegovina,yes,Serbian irregulars,Serbian irregulars,371.0,1992.0,1995.0,389.0,834.0,50,13454.0,125.0,yes,12.0,,37.0,0.0,1.0,2.0,0.0,2.0,6.0,8.0,1.0,0.0,5.0,0.0,4.0,0.0,0.0
+Alex,yes,no,yes,Government of Bosnia-Herzegovina,yes,Serbian Republic of Bosnia-Herzegovina,Serbian Republic of Bosnia-Herzegovina,339.0,1992.0,1995.0,389.0,835.0,50,13454.0,9729.0,yes,13.0,,10.0,1.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Alex,yes,yes,no,Government of Serbia (Yugoslavia),yes,Croatian irregulars,,370.0,1991.0,1994.0,385.0,825.0,49,5773.0,75.0,yes,14.0,,12.0,0.0,0.0,0.0,0.0,1.0,1.0,6.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0
+Alex,no,no,no,Government of Serbia (Yugoslavia),yes,Republic of Croatia,,337.0,1991.0,1992.0,385.0,826.0,49,5773.0,3045.0,yes,15.0,indistinguinshable from modern state,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,no,no,no,Government of Serbia (Yugoslavia),yes,Republic of Slovenia,,336.0,1991.0,1991.0,384.0,824.0,49,5773.0,64.0,yes,16.0,indistinguinshable from modern state,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Serbia (Yugoslavia),yes,UCK,Ushtria çlirimtare ë kosovës / Kosovo Liberation Army,357.0,1998.0,1999.0,412.0,868.0,49,5773.0,2639.0,yes,17.0,,169.0,7.0,37.0,26.0,6.0,2.0,17.0,29.0,23.0,12.0,0.0,0.0,2.0,0.0,0.0
+Alex,yes,yes,no,Government of Tajikistan,yes,Forces of Khudoberdiyev,,346.0,1997.0,1998.0,395.0,843.0,131,9123.0,604.0,yes,18.0,,20.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,7.0,0.0,2.0,4.0,0.0
+Alex,yes,yes,no,Government of Tajikistan,yes,Forces of Mullo Abdullo,,1216.0,2000.0,2010.0,395.0,12300.0,131,9123.0,78.0,yes,19.0,,17.0,0.0,5.0,1.0,0.0,0.0,0.0,1.0,8.0,1.0,0.0,0.0,0.0,0.0,0.0
+Alex,no,no,no,Government of Tajikistan,no,IMU,Islamic Movement of Uzbekistan,359.0,1999.0,2014.0,395.0,908.0,131,9123.0,791.0,yes,20.0,,73.0,6.0,13.0,5.0,0.0,0.0,3.0,7.0,20.0,1.0,1.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Tajikistan,yes,PFT,Popular Front of Tajikistan,1186.0,1992.0,1992.0,395.0,12298.0,131,9123.0,419.0,yes,21.0,,4.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Tajikistan,yes,UTO,United Tajik Opposition,345.0,1992.0,1998.0,395.0,842.0,131,9123.0,7928.0,yes,22.0,,8.0,1.0,2.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Azerbaijan,yes,Military faction (forces of Suret Husseinov),,347.0,1993.0,1993.0,396.0,844.0,64,5425.0,63.0,yes,23.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Azerbaijan,yes,OPON Forces,Special Police Brigade / Otryad Policija Osobogo Naznacenija,348.0,1995.0,1995.0,396.0,845.0,64,5425.0,44.0,yes,24.0,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Azerbaijan,yes,Republic of Artsakh,Republic of Nagorno-Karabakh / Artsakhi Hanrapetut’yun,338.0,1991.0,2017.0,388.0,833.0,64,5425.0,5318.0,yes,25.0,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0
+Alex,no,no,no,Government of Croatia,no,Serbian irregulars,,371.0,1992.0,1995.0,390.0,836.0,48,1329.0,125.0,no,26.0,,37.0,0.0,1.0,2.0,0.0,2.0,6.0,8.0,1.0,0.0,5.0,0.0,4.0,0.0,0.0
+Alex,yes,yes,no,Government of Croatia,yes,Serbian Republic of Krajina,Republika Srpska Krajina,340.0,1992.0,1995.0,390.0,837.0,48,1329.0,1304.0,no,27.0,,6.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+Alex,yes,yes,no,Government of Moldova,yes,PMR,Pridnistrovs'ka Moldavs'ka Respublika / Pridnestrovian Moldavian Republic,344.0,1992.0,1992.0,394.0,841.0,55,585.0,585.0,no,28.0,,49.0,0.0,2.0,0.0,0.0,2.0,3.0,6.0,0.0,13.0,4.0,10.0,5.0,3.0,0.0
+Alex,yes,yes,no,Government of Russia (Soviet Union),yes,APF,Azerbaijani Popular Front,331.0,1990.0,1990.0,377.0,808.0,57,21958.0,143.0,yes,29.0,,5.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+Alex,yes,yes,no,Government of Russia (Soviet Union),yes,Chechen Republic of Ichkeria,,352.0,1994.0,2007.0,401.0,852.0,57,21958.0,18164.0,yes,30.0,Location as main criteria for most entries,190.0,12.0,24.0,17.0,0.0,1.0,6.0,53.0,46.0,4.0,4.0,7.0,5.0,3.0,0.0
+Alex,yes,yes,no,Government of Russia (Soviet Union),yes,Forces of the Caucasus Emirate,Islamic Emirate of the Caucasus,367.0,2007.0,2015.0,432.0,899.0,57,21958.0,2947.0,yes,31.0,,27.0,0.0,4.0,6.0,0.0,0.0,0.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,0.0
+Alex,no,no,no,Government of Russia (Soviet Union),no,IS,,234.0,2004.0,2018.0,13588.0,14619.0,57,21958.0,127471.0,yes,32.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Alex,yes,yes,no,Government of Russia (Soviet Union),yes,Parliamentary Forces,,351.0,1993.0,1993.0,399.0,849.0,57,21958.0,145.0,yes,33.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,no,no,no,Government of Russia (Soviet Union),yes,Republic of Armenia,,330.0,1990.0,1991.0,376.0,807.0,57,21958.0,269.0,yes,34.0,indistinguinshable from modern state,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Russia (Soviet Union),yes,Wahhabi movement of the Buinaksk district,,358.0,1999.0,1999.0,414.0,870.0,57,21958.0,85.0,yes,35.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,Government of Georgia,yes,National Guard and Mkhedrioni,,332.0,1991.0,1991.0,380.0,812.0,63,3234.0,52.0,yes,36.0,,50.0,8.0,11.0,8.0,0.0,0.0,2.0,7.0,8.0,1.0,0.0,0.0,1.0,1.0,0.0
+Alex,yes,yes,no,Government of Georgia,yes,Republic of Abkhazia,,342.0,1992.0,1993.0,392.0,839.0,63,3234.0,2177.0,yes,37.0,,38.0,1.0,2.0,4.0,0.0,1.0,2.0,7.0,2.0,0.0,6.0,0.0,6.0,3.0,1.0
+Alex,yes,yes,no,Government of Georgia,yes,Republic of South Ossetia,Respublika Yuzhnaya Osetiya,343.0,1992.0,2008.0,393.0,840.0,63,3234.0,782.0,yes,38.0,,43.0,1.0,4.0,0.0,1.0,4.0,4.0,7.0,0.0,0.0,7.0,1.0,6.0,5.0,0.0
+Alex,yes,yes,no,Government of Georgia,yes,Zviadists,,333.0,1992.0,1993.0,380.0,813.0,63,3234.0,223.0,yes,39.0,,35.0,0.0,3.0,1.0,1.0,0.0,0.0,5.0,3.0,0.0,9.0,0.0,2.0,6.0,0.0
+Alex,yes,yes,no,Government of Rumania,yes,Military faction (forces of Nicolae Ceausescu),,6137.0,1989.0,1989.0,370.0,14471.0,56,249.0,53.0,no,40.0,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Alex,yes,yes,no,Government of Rumania,yes,NSF,National Salvation Front / Frontul Salvării Naţionale,329.0,1989.0,1989.0,370.0,798.0,56,249.0,196.0,no,41.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Alex,yes,yes,no,"Government of Macedonia, FYR",yes,UCK,"Ushtria Clirimtare Kombëtare /Osloboditelna Narodna Armija / ONA; National Liberation Army, NLA",361.0,2001.0,2001.0,417.0,877.0,47,72.0,72.0,no,42.0,,169.0,7.0,37.0,26.0,6.0,2.0,17.0,29.0,23.0,12.0,0.0,0.0,2.0,0.0,0.0
+Camelia,yes,yes,yes,Government of China,yes,ETIM,East Turkistan Islamic Movement,1156.0,2008.0,2008.0,11349.0,11990.0,135,36.0,36.0,no,43.0,,29.0,2.0,6.0,3.0,0.0,0.0,0.0,1.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Malaysia,yes,Sultanate of Sulu,,4006.0,2013.0,2013.0,11487.0,12139.0,152,70.0,70.0,no,44.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Syria,no,IS,,234.0,2004.0,2018.0,13604.0,14620.0,118,283820.0,127471.0,yes,45.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Syria,yes,PYD,"Democratic Union Party, Partiya Yekîtiya Demokrat",4163.0,2012.0,2015.0,13042.0,13821.0,118,283820.0,124.0,yes,46.0,,38.0,1.0,6.0,3.0,2.0,0.0,3.0,9.0,3.0,0.0,1.0,1.0,3.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Syria,yes,SDF,Syrian Democratic Forces,6288.0,2016.0,2018.0,13809.0,14784.0,118,283820.0,188.0,yes,47.0,,44.0,3.0,7.0,3.0,1.0,0.0,3.0,8.0,4.0,3.0,1.0,0.0,1.0,2.0,0.0
+Camelia,yes,yes,yes,Government of Syria,yes,Syrian insurgents,,4456.0,2011.0,2018.0,299.0,11973.0,118,283820.0,242041.0,yes,48.0,,286.0,8.0,54.0,28.0,7.0,6.0,17.0,77.0,39.0,1.0,10.0,0.0,11.0,12.0,0.0
+Camelia,yes,yes,yes,Government of Indonesia,yes,Fretilin,CNRT,290.0,1992.0,1999.0,330.0,720.0,155,3534.0,146.0,yes,49.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Indonesia,yes,GAM,Gerkan Aceh Merdeka: Free Aceh Movement,327.0,1990.0,2005.0,366.0,794.0,155,3534.0,3363.0,yes,50.0,,90.0,12.0,34.0,1.0,1.0,0.0,3.0,15.0,13.0,1.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Indonesia,yes,OPM,Organisasi Papua Merdeka: Organization for a Free Papua: Free Papua Movement,266.0,2018.0,2018.0,291.0,628.0,155,3534.0,25.0,yes,51.0,,9.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,AA,Arakan Army,3051.0,2018.0,2018.0,223.0,11387.0,144,11101.0,27.0,yes,52.0,Armed Wing of ULA,9.0,0.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,ABSDF,All Burma Students’ Democratic Front,185.0,1990.0,1994.0,222.0,434.0,144,11101.0,100.0,yes,53.0,,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,ARSA,Arakan Rohingya Salvation Army,6692.0,2016.0,2017.0,223.0,15069.0,144,11101.0,477.0,yes,54.0,,14.0,2.0,7.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,BMA,Beik Mon Army,191.0,1996.0,1996.0,224.0,446.0,144,11101.0,80.0,yes,55.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,DKBA 5,democratic Karen Buddhist Army Brigade 5,1107.0,2010.0,2013.0,221.0,430.0,144,11101.0,214.0,yes,56.0,,5.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,God's Army,,181.0,2000.0,2000.0,221.0,429.0,144,11101.0,46.0,yes,57.0,,11.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,KIO,"Kachin Independence Organization,  Kachin Independence Army (KIA)",201.0,1989.0,2018.0,231.0,461.0,144,11101.0,1631.0,yes,58.0,,69.0,2.0,11.0,5.0,1.0,0.0,14.0,9.0,5.0,8.0,0.0,0.0,6.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,KNPP,Karenni National Progressive Party,225.0,1992.0,2005.0,253.0,511.0,144,11101.0,563.0,yes,59.0,,12.0,0.0,2.0,1.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,KNU,Karen National Union,180.0,1989.0,2011.0,221.0,428.0,144,11101.0,4222.0,yes,60.0,,16.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,MNDAA,"Myanmar Nationalities Democratic Alliance Arm,  Kokang Democratic Party, KDP",880.0,2009.0,2017.0,439.0,906.0,144,11101.0,491.0,yes,61.0,,7.0,1.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,MTA,Mong Tai Army,255.0,1993.0,1995.0,264.0,549.0,144,11101.0,830.0,yes,62.0,,49.0,12.0,22.0,0.0,0.0,0.0,3.0,6.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,NMSP,New Mon State Party,190.0,1990.0,1990.0,224.0,445.0,144,11101.0,112.0,yes,63.0,,6.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,NSCN-K,National Socialist Council of Nagaland - Khaplang faction,224.0,1991.0,2007.0,11475.0,11018.0,144,11101.0,633.0,yes,64.0,,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,PSLF,Palaung State Liberation Front,5965.0,2013.0,2018.0,222.0,14273.0,144,11101.0,261.0,yes,65.0,,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,RCSS,Restoration Council of the Shan State,256.0,1996.0,2013.0,264.0,550.0,144,11101.0,881.0,yes,66.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,RSO,Rohingya Solidarity Organization,187.0,1991.0,1994.0,223.0,442.0,144,11101.0,134.0,yes,67.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,SSPP,"Shan State Progress Party, Shan State Army- North, SSA-N",1122.0,2011.0,2015.0,264.0,11972.0,144,11101.0,269.0,yes,68.0,,21.0,1.0,7.0,2.0,0.0,0.0,2.0,1.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Myanmar (Burma),yes,UWSA,"The United Wa State Army, United Wa State Party, ‘Red Wa’",364.0,1997.0,1997.0,422.0,887.0,144,11101.0,130.0,yes,69.0,,55.0,4.0,18.0,1.0,4.0,0.0,3.0,11.0,3.0,2.0,0.0,2.0,5.0,1.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,al-Harakat al-Islamiyah,,6998.0,2016.0,2016.0,308.0,15474.0,154,17772.0,57.0,yes,70.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,ASG,Abu Sayyaf Group,277.0,1993.0,2018.0,308.0,658.0,154,17772.0,3049.0,yes,71.0,,120.0,12.0,39.0,9.0,1.0,0.0,4.0,25.0,19.0,6.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,BIFM,"Bangsamoro Islamic Freedom Movement ,  Bangsamoro Islamic Freedom Fighters (BIFF) ",1146.0,2012.0,2016.0,308.0,11246.0,154,17772.0,484.0,yes,72.0,,87.0,8.0,27.0,7.0,0.0,0.0,3.0,18.0,14.0,5.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,BIFM-K,Bangsamoro Islamic Freedom Movement - Karialan faction,6999.0,2018.0,2018.0,308.0,15475.0,154,17772.0,27.0,yes,73.0,,32.0,4.0,13.0,2.0,0.0,0.0,3.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,CPP,"Communist Party of the Philippines, New People’s Army (NPA)",169.0,1989.0,2018.0,209.0,411.0,154,17772.0,7970.0,yes,74.0,,213.0,36.0,95.0,15.0,0.0,0.0,2.0,16.0,24.0,19.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Philippines,no,IS,,234.0,2004.0,2018.0,14275.0,15473.0,154,17772.0,127471.0,yes,75.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,Maute group,,6578.0,2016.0,2016.0,308.0,14913.0,154,17772.0,30.0,yes,76.0,,64.0,11.0,16.0,4.0,0.0,0.0,2.0,9.0,17.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,MILF,Moro Islamic Liberation Front ,276.0,1990.0,2015.0,308.0,657.0,154,17772.0,3552.0,yes,77.0,,83.0,5.0,19.0,11.0,0.0,0.0,6.0,26.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,"Military faction (forces of Honasan, Abenina & Zumel)",,170.0,1989.0,1990.0,209.0,412.0,154,17772.0,122.0,yes,78.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,MNLF,Moro National Liberation Front ,275.0,1989.0,1993.0,308.0,656.0,154,17772.0,303.0,yes,79.0,,20.0,3.0,7.0,4.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,MNLF - HM,Moro National Liberation Front – Habier Malik faction,279.0,2007.0,2007.0,308.0,660.0,154,17772.0,25.0,yes,80.0,,3.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Philippines,yes,MNLF - NM,"Moro National Liberation Front - Nur Misuari faction; alternatively MNLF Misuari Breakaway Group, MNLF-MBG",278.0,2001.0,2013.0,308.0,659.0,154,17772.0,467.0,yes,81.0,,16.0,1.0,6.0,1.0,0.0,0.0,1.0,3.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Jordan,no,IS,,234.0,2004.0,2018.0,13886.0,14741.0,120,34.0,127471.0,no,82.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Algeria,yes,AIS,Islamic Salvation Army,537.0,1992.0,1997.0,386.0,828.0,109,18883.0,2468.0,yes,83.0,,12.0,1.0,5.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Algeria,yes,AQIM,"al-Qaida Organization in the Islamic Maghreb, GSPC",539.0,1999.0,2018.0,386.0,830.0,109,18883.0,6734.0,yes,84.0,,109.0,5.0,29.0,12.0,1.0,2.0,2.0,31.0,18.0,3.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Algeria,yes,GIA,"Groupe Islamique Armé, Armed Islamic Group",538.0,1993.0,2003.0,386.0,829.0,109,18883.0,10216.0,yes,85.0,,36.0,3.0,10.0,3.0,1.0,0.0,2.0,3.0,12.0,0.0,0.0,1.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Algeria,no,IS,,234.0,2004.0,2018.0,13721.0,14847.0,109,18883.0,127471.0,yes,86.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,no,no,no,Government of Algeria,no,MUJAO,,1161.0,2012.0,2013.0,386.0,11984.0,109,18883.0,358.0,yes,87.0,,38.0,0.0,5.0,1.0,8.0,0.0,2.0,7.0,6.0,4.0,0.0,0.0,0.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Algeria,yes,Takfir wa'l Hijra,,536.0,1991.0,1991.0,386.0,827.0,109,18883.0,34.0,yes,88.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Morocco,yes,POLISARIO,Popular Front for the Liberation of Saguia el Hamra and Rio de Oro: Frente popular de liberación de Saguia el Hamra y Rio de Oro,563.0,1989.0,1989.0,331.0,721.0,108,207.0,207.0,no,89.0,,60.0,0.0,3.0,2.0,0.0,3.0,3.0,9.0,0.0,1.0,8.0,0.0,15.0,11.0,0.0
+Camelia,yes,yes,yes,Government of United Kingdom,yes,PIRA,Provisional Irish Republican Army,282.0,1989.0,1991.0,315.0,692.0,28,137.0,108.0,no,90.0,,66.0,8.0,15.0,7.0,2.0,2.0,1.0,12.0,17.0,0.0,0.0,0.0,1.0,1.0,0.0
+Camelia,yes,yes,yes,Government of United Kingdom,yes,RIRA,Real Irish Republican Army,283.0,1998.0,1998.0,315.0,693.0,28,137.0,29.0,no,91.0,,13.0,1.0,1.0,1.0,0.0,0.0,1.0,4.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Turkey,yes,DHKP-C,Revolutionary People’s Liberation Party-Front,334.0,1991.0,1995.0,383.0,822.0,115,32524.0,135.0,yes,92.0,,46.0,7.0,5.0,9.0,0.0,0.0,1.0,8.0,13.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Turkey,no,IS,,234.0,2004.0,2018.0,13902.0,14701.0,115,32524.0,127471.0,yes,93.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Turkey,yes,MKP,Maoist Communist Party,335.0,2005.0,2005.0,383.0,823.0,115,32524.0,29.0,yes,94.0,,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Turkey,yes,PKK,Partiya Karkeran Kurdistan; Kurdistan Workers’ Party,323.0,1989.0,2018.0,354.0,781.0,115,32524.0,30118.0,yes,95.0,,160.0,2.0,36.0,12.0,5.0,0.0,4.0,28.0,48.0,6.0,0.0,0.0,3.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Turkey,yes,TAK,Teyrêbazên Azadiya Kurdistan: Kurdistan Freedom Falcons,2034.0,2016.0,2016.0,383.0,10516.0,115,32524.0,111.0,yes,96.0,,6.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Turkey,yes,YSK,,6689.0,2016.0,2016.0,383.0,15065.0,115,32524.0,289.0,yes,97.0,No results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Comoros,yes,MPA/Republic of Anjouan,"Mouvement populaire de l’Azaouad; Azawad Peoples Movement; originally MPLA, Mouvement Populaire de Libération de l’Azaouad: Popular Movement for the Liberation of Azawad",544.0,1997.0,1997.0,407.0,860.0,107,85.0,56.0,no,98.0,No results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Comoros,yes,Presidential guard,,518.0,1989.0,1989.0,362.0,789.0,107,85.0,29.0,no,99.0,No results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,AMB,"Kateab al-Shaheed al Aqsa, Al-Aqsa Martyrs’ Brigades",211.0,2002.0,2004.0,234.0,480.0,121,7436.0,274.0,yes,100.0,,17.0,0.0,1.0,0.0,1.0,0.0,4.0,5.0,3.0,1.0,1.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,Fatah,,207.0,1990.0,2007.0,234.0,476.0,121,7436.0,371.0,yes,101.0,,17.0,1.0,2.0,0.0,0.0,1.0,3.0,5.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,Hamas,,209.0,1993.0,2018.0,234.0,477.0,121,7436.0,4069.0,yes,102.0,,92.0,2.0,8.0,3.0,0.0,0.0,8.0,39.0,13.0,1.0,0.0,1.0,14.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,Hezbollah,,366.0,1990.0,2006.0,426.0,891.0,121,7436.0,1534.0,yes,103.0,,153.0,4.0,13.0,6.0,4.0,2.0,5.0,68.0,9.0,4.0,5.0,6.0,14.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,PFLP,Popular Front for the Liberation of Palestine,205.0,1989.0,2001.0,234.0,474.0,121,7436.0,54.0,yes,104.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,PFLP-GC,Popular Front for the Liberation of Palestine-General Command,206.0,1989.0,1989.0,234.0,475.0,121,7436.0,27.0,yes,105.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,PIJ,Palestinian Islamic Jihad Movement,208.0,1995.0,2014.0,234.0,478.0,121,7436.0,758.0,yes,106.0,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,PNA,Palestinian National Authority,210.0,1996.0,2002.0,234.0,479.0,121,7436.0,304.0,yes,107.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Israel,yes,PRC,Popular Resistance Committees,212.0,2006.0,2006.0,234.0,481.0,121,7436.0,45.0,yes,108.0,,11.0,0.0,0.0,1.0,0.0,0.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,ABSU,All Bodo Students’ Union,362.0,1989.0,1990.0,421.0,884.0,141,36126.0,97.0,yes,109.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,ATTF,All Tripura Tiger Force,306.0,1992.0,1997.0,335.0,739.0,141,36126.0,61.0,yes,110.0,,37.0,6.0,16.0,1.0,0.0,0.0,2.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,CPI-Maoist,Communist Party of India – Maoist,195.0,2005.0,2018.0,227.0,453.0,141,36126.0,4490.0,yes,111.0,,77.0,14.0,23.0,1.0,0.0,0.0,1.0,3.0,20.0,7.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,CPI-ML-J,,3946.0,2000.0,2000.0,227.0,11932.0,141,36126.0,25.0,yes,112.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,GNLA,Garo National Liberation Army,1163.0,2012.0,2014.0,11342.0,11971.0,141,36126.0,53.0,yes,113.0,,83.0,15.0,38.0,2.0,0.0,0.0,1.0,7.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,Kashmir insurgents,"JKFL (Jammu and Kashmir Liberation Front), Hizb-ul-Mujahideen (Party of Holy Warriors), Pasdaran-e-Inquilab-e-Islami (Guardians of the Islamic Revolution), Harkat-ul-Ansar (Helper Movement), Jaish-e-Mohammed (Army of Mohammed) and Lashkar-e-Toiba (Army of the Righteous)",325.0,1990.0,2018.0,364.0,792.0,141,36126.0,18040.0,yes,114.0,,107.0,10.0,41.0,12.0,0.0,0.0,1.0,14.0,18.0,0.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,KCP,Kangleipak Communist Party,317.0,2008.0,2009.0,347.0,770.0,141,36126.0,92.0,yes,115.0,,47.0,12.0,10.0,1.0,0.0,0.0,0.0,2.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,MCC,Maoist Communist Centre,194.0,1999.0,2004.0,227.0,452.0,141,36126.0,253.0,yes,116.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NDFB,National Democratic Front of Bodoland,363.0,1994.0,2004.0,421.0,885.0,141,36126.0,416.0,yes,117.0,,72.0,17.0,24.0,0.0,0.0,0.0,0.0,1.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NDFB - RD,National Democratic Front of Bodoland - Ranjan Daimary faction,1066.0,2009.0,2010.0,421.0,886.0,141,36126.0,130.0,yes,118.0,,16.0,8.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NDFB-S,National Democratic Front of Bodoland-Songbijit,5826.0,2013.0,2014.0,421.0,14102.0,141,36126.0,67.0,yes,119.0,,49.0,7.0,29.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NLFT,National Liberation Front of Tripura,307.0,1997.0,2003.0,335.0,740.0,141,36126.0,237.0,yes,120.0,,38.0,5.0,14.0,3.0,0.0,0.0,2.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NLFT-B,National Liberation Front of Tripura - Biswamohan faction,2939.0,2004.0,2004.0,335.0,11299.0,141,36126.0,26.0,yes,121.0,,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,NSCN-IM,National Socialist Council of Nagaland - Isaac-Muivah faction,223.0,1992.0,2000.0,251.0,508.0,141,36126.0,401.0,yes,122.0,,29.0,5.0,14.0,2.0,0.0,0.0,1.0,1.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,PLA,People’s Liberation Army,314.0,1995.0,2006.0,347.0,768.0,141,36126.0,175.0,yes,123.0,,8.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,PREPAK,People's Revolutionary Party of Kangleipak,318.0,2008.0,2009.0,347.0,771.0,141,36126.0,74.0,yes,124.0,,39.0,3.0,12.0,0.0,0.0,0.0,2.0,3.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,PULF,People's United Liberation Front,369.0,2008.0,2008.0,434.0,901.0,141,36126.0,25.0,yes,125.0,,13.0,4.0,3.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,PWG,People’s War Group,193.0,1991.0,2004.0,227.0,451.0,141,36126.0,1565.0,yes,126.0,,23.0,5.0,8.0,4.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,Sikh insurgents,,319.0,1989.0,1993.0,351.0,775.0,141,36126.0,8165.0,yes,127.0,,26.0,2.0,6.0,3.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,ULFA,United Liberation Front of Assam,326.0,1990.0,2010.0,365.0,793.0,141,36126.0,1135.0,yes,128.0,,122.0,21.0,32.0,3.0,0.0,0.0,1.0,10.0,37.0,2.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,UNLF,United National Liberation Front,315.0,1993.0,2009.0,347.0,769.0,141,36126.0,325.0,yes,129.0,,41.0,7.0,13.0,0.0,0.0,0.0,3.0,5.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of India,yes,UNLFW,United Liberation Front of Western South East Asia,6320.0,2015.0,2018.0,13653.0,14685.0,141,36126.0,274.0,yes,130.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Lebanon,yes,Forces of Michel Aoun,,242.0,1989.0,1990.0,260.0,532.0,119,1683.0,1158.0,no,131.0,no results found,7.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0
+Camelia,no,no,no,Government of Lebanon,no,IS,,234.0,2004.0,2018.0,13675.0,14244.0,119,1683.0,127471.0,no,132.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Lebanon,yes,Lebanese Forces,,243.0,1989.0,1989.0,260.0,533.0,119,1683.0,253.0,no,133.0,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Spain,yes,ETA,Euskadi ta azkatasuna: Basque Nation and Liberty,313.0,1991.0,1991.0,342.0,763.0,35,44.0,44.0,no,134.0,,78.0,14.0,9.0,7.0,0.0,0.0,1.0,10.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,Al-Shabaab,,717.0,2008.0,2018.0,337.0,750.0,95,34337.0,18799.0,yes,135.0,,67.0,1.0,22.0,5.0,0.0,0.0,0.0,6.0,31.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,ARS/UIC,,505.0,2006.0,2008.0,337.0,749.0,95,34337.0,2300.0,yes,136.0,,9.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,Hizbul Islam,,1004.0,2009.0,2010.0,337.0,752.0,95,34337.0,150.0,yes,137.0,no results found,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,Republic of Somaliland,,675.0,2018.0,2018.0,14074.0,11545.0,95,34337.0,121.0,yes,138.0,,12.0,0.0,0.0,0.0,1.0,1.0,2.0,1.0,0.0,2.0,1.0,0.0,1.0,1.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,SNM,Somali National Movement,500.0,1989.0,1991.0,337.0,744.0,95,34337.0,1879.0,yes,139.0,,31.0,0.0,7.0,3.0,1.0,3.0,1.0,5.0,0.0,0.0,1.0,0.0,6.0,2.0,1.0
+Camelia,yes,yes,yes,Government of Somalia,yes,SPM,Somali Patriotic Movement,501.0,1989.0,1991.0,337.0,745.0,95,34337.0,759.0,yes,140.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,SRRC,Somali Reconciliation and Restoration Council,504.0,2001.0,2002.0,337.0,748.0,95,34337.0,342.0,yes,141.0,,4.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,USC/SNA,United Somali Congress/Somali National Alliance,503.0,1991.0,1996.0,337.0,747.0,95,34337.0,5776.0,yes,142.0,,22.0,0.0,7.0,2.0,2.0,0.0,3.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+Camelia,yes,yes,yes,Government of Somalia,yes,USC/SSA,United Somali Congress/Somali Salvation Alliance,502.0,1990.0,1991.0,337.0,746.0,95,34337.0,4456.0,yes,143.0,,13.0,0.0,1.0,1.0,1.0,0.0,1.0,4.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+Camelia,no,no,no,Government of Iran,no,IS,,234.0,2004.0,2018.0,14268.0,14895.0,114,1355.0,127471.0,no,144.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Iran,yes,Jondullah,,310.0,2006.0,2010.0,338.0,755.0,114,1355.0,270.0,no,145.0,,16.0,1.0,3.0,1.0,0.0,0.0,0.0,2.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iran,yes,KDPI,Kurdish Democratic Party of Iran,164.0,1990.0,2018.0,205.0,406.0,114,1355.0,242.0,no,146.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iran,yes,MEK,People's Mujahideen,308.0,1991.0,2001.0,338.0,753.0,114,1355.0,346.0,no,147.0,,13.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,4.0,0.0,3.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Iran,yes,PJAK,Free Life Party of Kurdistan,309.0,2005.0,2018.0,338.0,754.0,114,1355.0,470.0,no,148.0,,13.0,0.0,2.0,1.0,0.0,0.0,1.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,ASL,Ansar al-Sharia in Libya,7046.0,2013.0,2013.0,11346.0,15539.0,111,6467.0,31.0,yes,149.0,,14.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,Forces of Khalifa al-Ghawil,,6814.0,2017.0,2017.0,11346.0,15225.0,111,6467.0,72.0,yes,150.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,Forces of Muammar Gaddafi,,1127.0,2011.0,2011.0,11346.0,10885.0,111,6467.0,713.0,yes,151.0,,11.0,0.0,1.0,2.0,0.0,0.0,0.0,5.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,Forces of the House of Representatives,,5802.0,2014.0,2017.0,11346.0,14059.0,111,6467.0,453.0,yes,152.0,no results found/ confusion with government forces,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Libya,no,IS,,234.0,2004.0,2018.0,13694.0,14745.0,111,6467.0,127471.0,yes,153.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,NTC,National Transitional Council of Libya,1126.0,2011.0,2011.0,11346.0,11980.0,111,6467.0,3049.0,yes,154.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,PFLL,,6893.0,2017.0,2017.0,11346.0,15333.0,111,6467.0,70.0,yes,155.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Libya,yes,Zintan Military Council,,5940.0,2014.0,2014.0,11346.0,14249.0,111,6467.0,143.0,yes,156.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Egypt,yes,al-Gama'a al-Islamiyya,,341.0,1993.0,1998.0,391.0,838.0,117,3124.0,617.0,yes,157.0,,7.0,2.0,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Egypt,yes,Ansar Bayt al-Maqdis,,4319.0,2014.0,2014.0,391.0,12487.0,117,3124.0,184.0,yes,158.0,,46.0,1.0,2.0,8.0,1.0,0.0,2.0,8.0,17.0,0.0,0.0,0.0,1.0,1.0,0.0
+Camelia,yes,yes,yes,Government of Egypt,yes,Harakit Sawa'id Misr,,6616.0,2017.0,2018.0,391.0,14973.0,117,3124.0,83.0,yes,159.0,,6.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Egypt,no,IS,,234.0,2004.0,2018.0,13648.0,14677.0,117,3124.0,127471.0,yes,160.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Egypt,yes,Jama'at Ansar al-Islam,,6844.0,2017.0,2017.0,391.0,15262.0,117,3124.0,48.0,yes,161.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Papua New Guinea,yes,BRA,Bougainville Revolutionary Army,328.0,1990.0,1996.0,369.0,797.0,157,257.0,257.0,no,162.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,Baloch Ittehad,,288.0,2006.0,2006.0,325.0,710.0,142,30034.0,157.0,yes,163.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,BLA,Balochistan Liberation Army,287.0,2004.0,2016.0,325.0,709.0,142,30034.0,509.0,yes,164.0,,27.0,0.0,6.0,0.0,0.0,0.0,2.0,7.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,BLF,,1166.0,2012.0,2015.0,325.0,708.0,142,30034.0,69.0,yes,165.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,BRA,,289.0,2008.0,2015.0,325.0,711.0,142,30034.0,330.0,yes,166.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Pakistan,no,IMU,,359.0,1999.0,2014.0,404.0,10961.0,142,30034.0,791.0,yes,167.0,,73.0,6.0,13.0,5.0,0.0,0.0,3.0,7.0,20.0,1.0,1.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Pakistan,no,IS,,234.0,2004.0,2018.0,13936.0,14319.0,142,30034.0,127471.0,yes,168.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,Jamaat-ul-Ahrar,,5928.0,2014.0,2014.0,404.0,14227.0,142,30034.0,36.0,yes,169.0,,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,Lashkar-e-Islam,,399.0,2009.0,2014.0,404.0,11336.0,142,30034.0,976.0,yes,170.0,no results found,4.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,MQM,Muttahida Qaumi Movement: United National Movement,354.0,1990.0,1996.0,404.0,855.0,142,30034.0,202.0,yes,171.0,,5.0,1.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,TTP,Taleban Movement of Pakistan,356.0,2007.0,2018.0,404.0,857.0,142,30034.0,27332.0,yes,172.0,,19.0,2.0,3.0,1.0,0.0,0.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,TTP - TA, Taleban Movement of Pakistan,1101.0,2012.0,2012.0,404.0,11497.0,142,30034.0,30.0,yes,173.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Pakistan,yes,UBA,United Balochistan Army,3192.0,2016.0,2016.0,325.0,11521.0,142,30034.0,35.0,yes,174.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Bangladesh,no,IS,,234.0,2004.0,2018.0,13674.0,14718.0,143,303.0,127471.0,no,175.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Bangladesh,yes,JSS/SB,"Jana Samhati Samiti/Shanti Bahini, People’s Solidarity Association/Peace Force",285.0,1989.0,1991.0,322.0,705.0,143,303.0,96.0,no,176.0,,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Bangladesh,yes,PBCP,Purbo Banglar Communist Party - East Bengali Workers Party,805.0,2005.0,2005.0,11350.0,10985.0,143,303.0,32.0,no,177.0,,10.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Bangladesh,yes,PBCP-J,Purba Banglar Communist Party - Janajudhha faction,1165.0,2005.0,2006.0,11350.0,11991.0,143,303.0,87.0,no,178.0,,17.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Thailand,yes,Patani insurgents,,365.0,2003.0,2018.0,423.0,888.0,147,1860.0,1860.0,no,179.0,,27.0,6.0,14.0,0.0,0.0,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Nepal,yes,CPN-M,Samyukta Jana Morcha; Communist Party of Nepal - Maoist,258.0,1996.0,2006.0,269.0,562.0,146,9915.0,9915.0,yes,180.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Tunisia,no,IS,,234.0,2004.0,2018.0,14333.0,14747.0,110,72.0,127471.0,no,181.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,al-Mahdi Army,,5659.0,2004.0,2008.0,259.0,13891.0,116,67715.0,2495.0,yes,182.0,,6.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,Ansar al-Islam,,233.0,2004.0,2011.0,259.0,523.0,116,67715.0,928.0,yes,183.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,IS,,234.0,2004.0,2018.0,259.0,524.0,116,67715.0,127471.0,yes,184.0,Nexis done?,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,KDP,Kurdish Democratic Party,260.0,1989.0,1991.0,271.0,564.0,116,67715.0,357.0,yes,185.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,PUK,Patriotic Union of Kurdistan,261.0,1989.0,1996.0,271.0,565.0,116,67715.0,1678.0,yes,186.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,RJF,Reform and Jihad Front,235.0,2005.0,2007.0,259.0,525.0,116,67715.0,204.0,yes,187.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Iraq,yes,SCIRI,Supreme Council of the Islamic Revolution in Iraq,231.0,1991.0,1996.0,259.0,521.0,116,67715.0,993.0,yes,188.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Hizb-i Islami-yi Afghanistan,Islamic Party of Afghanistan,299.0,1989.0,2013.0,333.0,726.0,130,209462.0,9579.0,yes,189.0,,21.0,0.0,2.0,2.0,1.0,1.0,1.0,9.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Hizb-i Islami-yi Afghanistan - Khalis faction,,294.0,1989.0,1991.0,333.0,727.0,130,209462.0,6012.0,yes,190.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Hizb-i Wahdat,Unity Party,300.0,1989.0,1995.0,333.0,732.0,130,209462.0,1261.0,yes,191.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,no,no,no,Government of Afghanistan,no,IS,,234.0,2004.0,2018.0,13637.0,14320.0,130,209462.0,127471.0,yes,192.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Jam'iyyat-i Islami-yi Afghanistan,ISA (Islamic Society of Afghanistan),292.0,1989.0,1996.0,333.0,724.0,130,209462.0,2860.0,yes,193.0,,16.0,0.0,2.0,1.0,0.0,0.0,2.0,5.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Junbish-i Milli-yi Islami,"Jombesh-i Melli, National Islamic Movement of Afghanistan",302.0,1993.0,1995.0,333.0,734.0,130,209462.0,9033.0,yes,194.0,,9.0,0.0,1.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Mahaz-i Milli-yi Islami-yi Afghanistan,"National Islamic Front of Afghanistan, NIFA",296.0,1989.0,1989.0,333.0,729.0,130,209462.0,30.0,yes,195.0,,10.0,0.0,4.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Military faction (forces of Shahnawaz Tanay),,301.0,1990.0,1990.0,333.0,733.0,130,209462.0,108.0,yes,196.0,no results found,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,Taleban,Taliban,303.0,1995.0,2018.0,333.0,735.0,130,209462.0,146342.0,yes,197.0,,152.0,5.0,15.0,12.0,1.0,2.0,15.0,39.0,8.0,11.0,4.0,6.0,19.0,4.0,0.0
+Camelia,yes,yes,yes,Government of Afghanistan,yes,UIFSA,United Islamic Front for the Salvation of Afghanistan,304.0,1996.0,2001.0,333.0,736.0,130,209462.0,25785.0,yes,198.0,,42.0,0.0,1.0,1.0,0.0,2.0,2.0,5.0,0.0,0.0,6.0,2.0,12.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Cambodia (Kampuchea),yes,Forces of Norodom Ranariddh,,7248.0,1997.0,1998.0,300.0,15800.0,148,4311.0,352.0,yes,199.0,,16.0,1.0,1.0,3.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0
+Camelia,yes,yes,yes,Government of Cambodia (Kampuchea),yes,FUNCINPEC,"United National Front for an Independent, Neutral, Peaceful and Cooperative Cambodia",273.0,1989.0,1991.0,300.0,647.0,148,4311.0,293.0,yes,200.0,,10.0,1.0,1.0,2.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Cambodia (Kampuchea),yes,KPNLF,Khmer People’s National Liberation Front,272.0,1989.0,1991.0,300.0,646.0,148,4311.0,401.0,yes,201.0,,27.0,0.0,6.0,0.0,1.0,0.0,3.0,6.0,0.0,1.0,3.0,1.0,4.0,2.0,0.0
+Camelia,yes,yes,yes,Government of Cambodia (Kampuchea),yes,KR,"Khmer Rouge, Red Khmers",270.0,1989.0,1998.0,300.0,644.0,148,4311.0,3200.0,yes,202.0,,107.0,1.0,10.0,5.0,0.0,2.0,18.0,21.0,2.0,8.0,7.0,2.0,13.0,3.0,0.0
+Camelia,yes,yes,yes,Government of Cambodia (Kampuchea),yes,Military faction (Forces of Hun Sen),,7249.0,1997.0,1997.0,300.0,15801.0,148,4311.0,65.0,yes,203.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Camelia,yes,yes,yes,Government of Laos,yes,LRM,Lao Resistance Movement,246.0,1989.0,1990.0,262.0,537.0,149,279.0,279.0,no,204.0,,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Eritrea,yes,EIJM - AS,Eritrean Islamic Jihad Movement – Abu Suhail faction,495.0,1997.0,2003.0,326.0,712.0,98,113.0,113.0,no,205.0,,6.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Colombia,yes,ELN,National Liberation Army,744.0,1989.0,2018.0,289.0,624.0,17,19690.0,2654.0,yes,206.0,,145.0,23.0,40.0,7.0,0.0,0.0,9.0,14.0,29.0,8.0,0.0,4.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Colombia,yes,EPL,Popular Liberation Army,746.0,1989.0,1990.0,289.0,626.0,17,19690.0,68.0,yes,207.0,,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Colombia,yes,EPL - Megateo,Popular Liberation Army - Megateo,7074.0,2004.0,2004.0,289.0,15558.0,17,19690.0,26.0,yes,208.0,,17.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Colombia,yes,FARC,Revolutionary Armed Forces of Colombia – People’s Army,743.0,1989.0,2015.0,289.0,623.0,17,19690.0,16854.0,yes,209.0,,611.0,64.0,168.0,18.0,0.0,0.0,33.0,70.0,175.0,22.0,0.0,3.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Colombia,yes,FARC dissidents,,7013.0,2018.0,2018.0,289.0,15488.0,17,19690.0,88.0,yes,210.0,,57.0,13.0,12.0,2.0,0.0,0.0,2.0,5.0,13.0,8.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,,yes,AUC,United Self-Defence forces of Colombia ,771.0,,,,,,,,,,,156.0,21.0,35.0,7.0,0.0,2.0,7.0,17.0,11.0,4.0,0.0,5.0,0.0,0.0,0.0
+Hannes,no,no,no,,no,ACC,Casanare Peasant Self-Defense Groups,,,,,,,,,,,,25.0,3.0,5.0,3.0,0.0,0.0,1.0,5.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Peru,yes,MRTA,Túpac Amaru Revolutionary Movement,751.0,1989.0,1993.0,292.0,632.0,21,6626.0,433.0,yes,211.0,,61.0,5.0,15.0,11.0,1.0,1.0,5.0,9.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Peru,yes,Sendero Luminoso,Sendero Luminoso (Shining Path),750.0,1989.0,2010.0,292.0,631.0,21,6626.0,6193.0,yes,212.0,,89.0,7.0,24.0,12.0,2.0,0.0,11.0,11.0,19.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Guinea,yes,RFDG,Rally of Democratic Forces of Guinea,463.0,2000.0,2001.0,307.0,654.0,77,649.0,649.0,no,213.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,Darfur Joint Resistance Forces,,5866.0,2014.0,2015.0,309.0,14150.0,112/113.combined,49467.0,309.0,yes,214.0,,7.0,0.0,2.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,JEM,Justice and Equality Movement,468.0,2003.0,2011.0,309.0,665.0,112/113.combined,49467.0,2574.0,yes,215.0,,88.0,0.0,5.0,7.0,2.0,4.0,8.0,21.0,0.0,0.0,5.0,0.0,6.0,8.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,NDA,National Democratic Alliance,467.0,1996.0,2001.0,309.0,664.0,112/113.combined,49467.0,2891.0,yes,216.0,,135.0,3.0,15.0,19.0,7.0,5.0,24.0,20.0,4.0,2.0,11.0,0.0,11.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,NRF,National Redemption Front,470.0,2006.0,2006.0,309.0,667.0,112/113.combined,49467.0,810.0,yes,217.0,,6.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hannes,no,no,no,Government of Sudan,yes,Republic of South Sudan,,1129.0,2011.0,2011.0,11344.0,11977.0,112/113.combined,49467.0,145.0,yes,218.0,indistinguinshable from modern state,8.0,1.0,2.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SARC,Sudanese Awakening Revolutionary Council,5849.0,2014.0,2017.0,309.0,14134.0,112/113.combined,49467.0,156.0,yes,219.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SLM/A,The Sudan Liberation Movement/Army,469.0,2003.0,2011.0,309.0,666.0,112/113.combined,49467.0,4781.0,yes,220.0,,23.0,0.0,2.0,4.0,1.0,0.0,0.0,5.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SLM/A - MM,Sudan Liberation Movement/Army - MM,471.0,2006.0,2006.0,309.0,668.0,112/113.combined,49467.0,134.0,yes,221.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SLM/A-Unity,Sudan Liberation Movement/Army – Unity,472.0,2007.0,2008.0,309.0,669.0,112/113.combined,49467.0,122.0,yes,222.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SPLM/A,Sudan People’s Liberation Movement/Army,466.0,1989.0,2004.0,309.0,663.0,112/113.combined,49467.0,31240.0,yes,223.0,,156.0,0.0,22.0,13.0,6.0,3.0,14.0,28.0,1.0,20.0,15.0,0.0,16.0,3.0,0.0
+Hannes,yes,yes,yes,Government of South Sudan,yes,SPLM/A In Opposition,Sudan People’s Liberation Movement/Army In Opposition,4226.0,2013.0,2018.0,11345.0,12413.0,112/113.combined,5194.0,4765.0,yes,224.0,,22.0,1.0,6.0,4.0,1.0,1.0,2.0,4.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SPLM/A-North,Sudan People’s Liberation Movement/Army – North,1123.0,2011.0,2016.0,309.0,11975.0,112/113.combined,49467.0,718.0,yes,225.0,,85.0,0.0,12.0,8.0,2.0,4.0,14.0,21.0,0.0,3.0,5.0,0.0,6.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SRF,Sudan Revolutionary Front,1162.0,2011.0,2018.0,309.0,11988.0,112/113.combined,49467.0,4685.0,yes,226.0,,13.0,0.0,0.0,1.0,1.0,0.0,1.0,5.0,0.0,0.0,3.0,0.0,1.0,1.0,0.0
+Hannes,no,no,no,Government of South Sudan,no,SSDM/A,South Sudan Defence Movement/Army,1108.0,2010.0,2011.0,11345.0,11978.0,112/113.combined,5194.0,687.0,yes,227.0,,25.0,0.0,10.0,6.0,1.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SSDM/A,South Sudan Defence Movement/Army,1108.0,2010.0,2011.0,309.0,670.0,112/113.combined,49467.0,687.0,yes,228.0,,25.0,0.0,10.0,6.0,1.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of South Sudan,yes,SSDM/A - Cobra Faction,South Sudan Defence Movement/Army - Cobra Faction,3563.0,2013.0,2013.0,11345.0,11805.0,112/113.combined,5194.0,76.0,yes,229.0,,8.0,0.0,6.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of South Sudan,no,SSLM/A,South Sudan Liberation Movement/Army,1124.0,2011.0,2012.0,11345.0,11979.0,112/113.combined,5194.0,568.0,yes,230.0,,35.0,1.0,15.0,3.0,1.0,0.0,6.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sudan,yes,SSLM/A,South Sudan Liberation Movement/Army,1124.0,2011.0,2012.0,309.0,11976.0,112/113.combined,49467.0,568.0,yes,231.0,,35.0,1.0,15.0,3.0,1.0,0.0,6.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,,,Janjaweed,Janjaweed,630.0,,,,,,,,,,,,,,,,,,,,,,,,,
+Hannes,yes,yes,yes,Government of Lesotho,yes,Military faction (Lesotho),,550.0,1998.0,1998.0,411.0,867.0,104,68.0,68.0,no,232.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Panama,yes,Military faction (forces of Moiss Giroldi),,761.0,1989.0,1989.0,367.0,795.0,16,77.0,77.0,no,233.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Yemen (North Yemen),yes,Ansarallah,Supporters of God / al-Huthis,1091.0,2014.0,2015.0,230.0,10855.0,123,23648.0,661.0,yes,234.0,,131.0,0.0,7.0,2.0,2.0,0.0,17.0,34.0,14.0,13.0,13.0,7.0,8.0,6.0,1.0
+Hannes,yes,yes,yes,Government of Yemen (North Yemen),yes,AQAP,al-Qaida in the Arabian Peninsula ,881.0,2009.0,2018.0,230.0,459.0,123,23648.0,5535.0,yes,235.0,,85.0,4.0,10.0,5.0,0.0,1.0,5.0,20.0,26.0,2.0,5.0,1.0,1.0,2.0,0.0
+Hannes,yes,yes,yes,Government of Yemen (North Yemen),yes,Democratic Republic of Yemen,Democratic Republic of Yemen,353.0,1994.0,1994.0,402.0,853.0,123,23648.0,1489.0,yes,236.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Yemen (North Yemen),yes,Forces of Hadi,Forces of Hadi,6254.0,2015.0,2018.0,230.0,14595.0,123,23648.0,15717.0,yes,237.0,,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Yemen (North Yemen),no,IS,,234.0,2004.0,2018.0,13645.0,14609.0,123,23648.0,127471.0,yes,238.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,no,no,no,Government of Kenya,no,Al-Shabaab,,717.0,2008.0,2018.0,13646.0,10589.0,91,245.0,18799.0,no,239.0,,67.0,1.0,22.0,5.0,0.0,0.0,0.0,6.0,31.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Rwanda,yes,ALiR,Peuple en Armes Pour la Liberation du Rwanda; Armed People for the Liberation of Rwanda; ex-FAR; Interahamwe,1128.0,1996.0,2000.0,374.0,805.0,94,9560.0,2292.0,yes,240.0,,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Rwanda,yes,FDLR,Forces démocratiques de libération du Rwanda; Democratic Liberation Forces of Rwanda,528.0,2001.0,2018.0,374.0,12102.0,94,9560.0,4495.0,yes,241.0,,34.0,1.0,7.0,3.0,1.0,0.0,1.0,3.0,13.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Rwanda,yes,FPR,Front patriotique rwandais; Rwandan Patriotic Front,527.0,1990.0,1994.0,374.0,804.0,94,9560.0,2773.0,yes,242.0,,44.0,1.0,1.0,5.0,0.0,1.0,12.0,8.0,7.0,2.0,0.0,0.0,4.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Senegal,yes,MFDC,Mouvement des forces démocratiques de Casamance; Movement of the Democratic Forces of the Casamance,529.0,1990.0,2011.0,375.0,806.0,73,1373.0,1373.0,no,243.0,,37.0,0.0,0.0,5.0,0.0,0.0,10.0,8.0,5.0,6.0,0.0,0.0,2.0,0.0,0.0
+Hannes,no,no,no,Government of Mauritania,no,AQIM,"Qaida al-Jihad fi Bilad al-Maghrib al-Islami, al-Qaida Organisation in the Islamic Maghreb",539.0,1999.0,2018.0,442.0,909.0,74,55.0,6734.0,no,244.0,,109.0,5.0,29.0,12.0,1.0,2.0,2.0,31.0,18.0,3.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,CNDD,"National Council for the Defence of Democracy, Conseil national pour la défense de la démocratie",431.0,1994.0,1998.0,287.0,594.0,93,8771.0,1510.0,yes,245.0,,24.0,2.0,5.0,0.0,0.0,0.0,4.0,2.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,CNDD-FDD,"Conseil national pour la défense de la démocratie-Forces pour la défense de la démocratie, National Council for the Defence of Democracy-Forces for the Defence of Democracy",434.0,1998.0,2003.0,287.0,597.0,93,8771.0,2431.0,yes,246.0,,23.0,4.0,6.0,6.0,0.0,0.0,1.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,FPB,Popular Forces of Burundi Les Forces,6297.0,2015.0,2015.0,287.0,14649.0,93,8771.0,87.0,yes,247.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,Frolina,Front pour la libération nationale: National Liberation Front,433.0,1997.0,1997.0,287.0,595.0,93,8771.0,131.0,yes,248.0,,16.0,2.0,6.0,5.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,Military faction (forces of Godefroid Niyombare),Military faction (forces of Godefroid Niyombare),6187.0,2015.0,2015.0,287.0,14528.0,93,8771.0,46.0,yes,249.0,,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,Palipehutu,Parti pour la libération du peuple Hutu: Party for the Liberation of the Hutu People,430.0,1991.0,1992.0,287.0,593.0,93,8771.0,333.0,yes,250.0,,7.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,Palipehutu-FNL,"Parti pour la libération du peuple Hutu - Forces nationales de liberation, Party for the Liberation of the Hutu People- Forces for the National Liberation",432.0,1997.0,2008.0,287.0,596.0,93,8771.0,4184.0,yes,251.0,,58.0,2.0,15.0,6.0,0.0,0.0,8.0,1.0,17.0,3.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Burundi,yes,RED-TABARA,Resistance for the Rule of Law in Burundi; Résistance pour un Etat de Droit au Burundi; Umuhari Uharanira Iteka n'Itekane; FRONABU Tabara,6513.0,2014.0,2014.0,287.0,14842.0,93,8771.0,49.0,yes,252.0,,12.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Niger,yes,CRA,Coordination de la résistance armée; Coordination of the Armed Resistance,525.0,1994.0,1994.0,373.0,803.0,75,1071.0,50.0,no,253.0,,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Niger,yes,FDR,Front démocratique pour le renouveau; Democratic Front for Renewal,543.0,1995.0,1995.0,406.0,859.0,75,1071.0,34.0,no,254.0,,4.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Niger,yes,FLAA,Front de libération de l’Aїr et l’Azaouad; Aїr and Azawad Liberation Front,524.0,1991.0,1992.0,430.0,895.0,75,1071.0,69.0,no,255.0,,3.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Niger,no,IS,,234.0,2004.0,2018.0,13639.0,14668.0,75,1071.0,127471.0,no,256.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,yes,yes,yes,Government of Niger,yes,MNJ,Mouvement des Nigériens pour la Justice; Niger Movement for Justice,562.0,2007.0,2008.0,430.0,897.0,75,1071.0,128.0,no,257.0,,17.0,0.0,2.0,2.0,1.0,0.0,1.0,4.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Niger,yes,UFRA,Union des Forces de la résistance armée; Union of Forces of the Armed Resistance,526.0,1997.0,1997.0,430.0,896.0,75,1071.0,62.0,no,258.0,,3.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Nigeria,yes,Ahlul Sunnah Jamaa,,559.0,2004.0,2004.0,424.0,889.0,84,18197.0,61.0,yes,259.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Nigeria,no,IS,,234.0,2004.0,2018.0,13641.0,14669.0,84,18197.0,127471.0,yes,260.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,yes,yes,yes,Government of Nigeria,yes,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,Boko Haram,1051.0,2009.0,2018.0,297.0,640.0,84,18197.0,13018.0,yes,261.0,,277.0,7.0,79.0,22.0,2.0,0.0,3.0,37.0,82.0,0.0,2.0,0.0,1.0,12.0,0.0
+Hannes,yes,yes,yes,Government of Nigeria,yes,NDPVF,Niger Delta People’s Volunteer Force,560.0,2004.0,2004.0,425.0,890.0,84,18197.0,67.0,yes,262.0,,28.0,2.0,16.0,5.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Hannes,yes,yes,yes,Government of Trinidad and Tobago,yes,Jamaat al-Muslimeen,Group of Muslims / Society of Muslims,762.0,1990.0,1990.0,378.0,809.0,8,39.0,39.0,no,263.0,,9.0,1.0,4.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,AN,National Alliance,716.0,2008.0,2008.0,288.0,620.0,87,8043.0,991.0,yes,264.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,CCMSR,Military Command Council for the Salvation of the Republic,7151.0,2018.0,2018.0,288.0,15676.0,87,8043.0,42.0,yes,265.0,,8.0,0.0,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,CNR,"Comité national de redressement, National Council for Recovery; Conseil national de redressement du Tchad/CNRT",447.0,1992.0,1994.0,288.0,612.0,87,8043.0,165.0,yes,266.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,CSNPD,Committee of National Revival for Peace and Democracy,448.0,1992.0,1994.0,288.0,613.0,87,8043.0,163.0,yes,267.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,FARF,Forces armées pour la République fédérale; Armed Forces of the Federal Republic,451.0,1997.0,1998.0,288.0,615.0,87,8043.0,92.0,yes,268.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,FNT,"Front national tchadien, or Chad National Front; Front de libération du Ouaddai/Ouaddai Liberation Front, FLO",450.0,1992.0,1994.0,288.0,614.0,87,8043.0,81.0,yes,269.0,,5.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,FPRN,Front populaire pour la renaissance nationale / Popular Front for National Renaissance,1112.0,2010.0,2010.0,288.0,622.0,87,8043.0,42.0,yes,270.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,FUCD,"Front Uni pour le changement démocratique; United Front for Democratic Change; Rassemblement pour la Démocratie et la Liberté/RDL, Rally for Democray and Liberty",453.0,2005.0,2006.0,288.0,617.0,87,8043.0,979.0,yes,271.0,,4.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Chad,no,IS,,234.0,2004.0,2018.0,13640.0,14667.0,87,8043.0,127471.0,yes,272.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,Islamic Legion,,442.0,1989.0,1990.0,288.0,606.0,87,8043.0,487.0,yes,273.0,,28.0,2.0,0.0,2.0,1.0,3.0,0.0,9.0,0.0,0.0,3.0,0.0,2.0,5.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,MDD,Mouvement pour la démocratie et le development / Movement for Democracy and Development,446.0,1991.0,1997.0,288.0,610.0,87,8043.0,830.0,yes,274.0,,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,MDJT,Mouvement pour la démocratie et la justice au Tchad / Movement for Democracy and Justice in Chad,452.0,1999.0,2003.0,288.0,616.0,87,8043.0,1940.0,yes,275.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,Military faction (forces of Maldoum Bada Abbas),,449.0,1991.0,1991.0,288.0,611.0,87,8043.0,43.0,yes,276.0,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,MOSANAT,Mouvement pour le salut national du Tchad; Movement for the National Salvation of Chad,444.0,1989.0,1989.0,288.0,607.0,87,8043.0,50.0,yes,277.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,MPS,Mouvement patriotique du salut / Patriotic Salvation Movement,445.0,1990.0,1990.0,288.0,609.0,87,8043.0,1100.0,yes,278.0,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,RAFD,"Rassemblement des Forces démocratiques, Rally of Democratic Forces; Rassemblement des forces pour le changement/RFC, Rally of Forces for Change",454.0,2006.0,2006.0,288.0,618.0,87,8043.0,32.0,yes,279.0,,4.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,Revolutionary Forces of 1 April,,443.0,1989.0,1989.0,288.0,608.0,87,8043.0,30.0,yes,280.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,UFDD,Union des Forces pour la Démocratie et le Développement; Union Force for Democracy and Development,456.0,2006.0,2007.0,288.0,619.0,87,8043.0,408.0,yes,281.0,,28.0,0.0,0.0,2.0,0.0,0.0,0.0,17.0,0.0,0.0,1.0,0.0,4.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Chad,yes,UFR,"Union des Forces de la Résistance, or Union of Forces for the Resistance",1069.0,2009.0,2009.0,288.0,621.0,87,8043.0,131.0,yes,282.0,,16.0,0.0,1.0,3.0,1.0,2.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Angola,yes,FLEC-FAC,Frente da Libertação do Enclave de Cabinda - Forças Armadas de Cabinda / Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda,541.0,1994.0,2017.0,387.0,832.0,99,30635.0,298.0,yes,283.0,,22.0,0.0,5.0,1.0,0.0,1.0,3.0,4.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Angola,yes,FLEC-R,Frente da Libertação do Enclave de Cabinda – Renovada / Front for the Liberation of the Enclave of Cabinda – Renewed / Front for the Liberation of the Cabinda Enclave,540.0,1991.0,2002.0,387.0,831.0,99,30635.0,110.0,yes,284.0,,18.0,0.0,4.0,2.0,0.0,1.0,2.0,2.0,2.0,3.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Angola,yes,UNITA,União Nacional para a Independência Total de Angola / National Union for the Total Independence of Angola,567.0,1989.0,2002.0,327.0,714.0,99,30635.0,30227.0,yes,285.0,,153.0,2.0,12.0,3.0,1.0,3.0,18.0,41.0,3.0,2.0,17.0,10.0,25.0,10.0,0.0
+Hannes,yes,yes,yes,Government of Djibouti,yes,FRUD,Front pour la restauration de l’unité et de la démocratie / Front for the Restoration of Unity and Democracy,530.0,1991.0,1994.0,379.0,810.0,96,285.0,260.0,no,286.0,,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Djibouti,yes,FRUD-C,Front pour la restauration de l’unité et de la démocratie – Combattant / Front for the Restoration of Unity and Democracy – Combatant,531.0,1999.0,1999.0,379.0,811.0,96,285.0,25.0,no,287.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Liberia,yes,INPFL,Independent National Patriotic Front of Liberia,508.0,1990.0,1990.0,341.0,760.0,79,3051.0,111.0,no,288.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Liberia,yes,LURD,Liberians United for Reconciliation and Democracy,509.0,2000.0,2003.0,341.0,761.0,79,3051.0,2601.0,no,289.0,,57.0,1.0,16.0,10.0,3.0,0.0,14.0,7.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Liberia,yes,MODEL,Movement for Democracy in Liberia,510.0,2003.0,2003.0,341.0,762.0,79,3051.0,76.0,no,290.0,,18.0,1.0,8.0,5.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Liberia,yes,NPFL,National Patriotic Front of Liberia,507.0,1989.0,1990.0,341.0,759.0,79,3051.0,263.0,no,291.0,,59.0,2.0,10.0,3.0,0.0,1.0,9.0,16.0,1.0,1.0,1.0,0.0,6.0,3.0,0.0
+Hannes,yes,yes,yes,Government of Guatemala,yes,URNG,Unidad Revolucionaria nacional guatemalteca / Guatemalan National Revolutionary Unity,732.0,1989.0,1995.0,233.0,469.0,11,426.0,426.0,no,292.0,,50.0,1.0,12.0,4.0,0.0,1.0,2.0,8.0,10.0,6.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,anti-Balaka,,4201.0,2013.0,2013.0,416.0,12380.0,86,974.0,260.0,no,293.0,,51.0,1.0,17.0,2.0,0.0,0.0,4.0,6.0,15.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,CPJP,Convention of Patriots for Justice and Peace / Convention des patriotes pour la justice et la paix,1053.0,2009.0,2011.0,416.0,876.0,86,974.0,97.0,no,294.0,,5.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,Forces of Francois Bozize,,553.0,2002.0,2002.0,416.0,874.0,86,974.0,131.0,no,295.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,Military faction (forces of Andr Kolingba),Military faction (forces of André Kolingba),552.0,2001.0,2001.0,416.0,873.0,86,974.0,234.0,no,296.0,,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,Seleka,Union of Democratic Forces for Unity,554.0,2006.0,2013.0,416.0,875.0,86,974.0,205.0,no,297.0,,57.0,2.0,12.0,6.0,4.0,0.0,3.0,15.0,4.0,0.0,0.0,1.0,1.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Central African Republic,yes,UPC (Ali Darass Fulani supporters),Union pour la Paix en Centrafrique / Union for Peace in the Central African Republic,5999.0,2018.0,2018.0,416.0,15593.0,86,974.0,47.0,no,298.0,,4.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Nicaragua,yes,Contras/FDN,Counterrevolutionaries,759.0,1989.0,1990.0,336.0,742.0,14,565.0,565.0,no,299.0,,20.0,0.0,3.0,4.0,0.0,0.0,4.0,5.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Congo,yes,Cobras,,545.0,1997.0,1997.0,408.0,862.0,88,14227.0,10000.0,yes,300.0,,14.0,0.0,0.0,1.0,1.0,2.0,2.0,3.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Congo,yes,Cocoyes,,547.0,1997.0,1999.0,408.0,863.0,88,14227.0,305.0,yes,301.0,,23.0,0.0,6.0,6.0,1.0,0.0,2.0,5.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Congo,yes,Ninjas,,546.0,1993.0,1999.0,408.0,861.0,88,14227.0,179.0,yes,302.0,,4.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Congo,yes,Ntsiloulous,Nsiloulous,548.0,1998.0,2016.0,408.0,864.0,88,14227.0,3743.0,yes,303.0,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,AFDL,Alliance des forces démocratiques pour la libération du Congo / Alliance of Democratic Forces for the Liberation of Congo,422.0,1996.0,1997.0,283.0,584.0,89,21927.0,5761.0,yes,304.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,APCLS,Alliance des patriotes pour un Congo libre et souverain / Alliance of the People for a Free and Sovereign Congo,1200.0,2013.0,2014.0,283.0,10509.0,89,21927.0,164.0,yes,305.0,,4.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,BDK,Bundu dia Kongo,561.0,2007.0,2017.0,429.0,894.0,89,21927.0,452.0,yes,306.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,CMC,Collectif des mouvements pour le changement / Coalition for movements of change,6920.0,2018.0,2018.0,283.0,15389.0,89,21927.0,38.0,yes,307.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,CNDP,Congrès National pour la Défense du Peuple / National Congress for the Defence of the People,426.0,2006.0,2008.0,283.0,588.0,89,21927.0,1184.0,yes,308.0,,27.0,1.0,5.0,4.0,0.0,0.0,3.0,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,CNPSC (Yakutumba),Coalition nationale du peuple pour la souveraineté du Congo / National Coalition of the People for the Sovereignty of the Congo,3043.0,2011.0,2018.0,283.0,11377.0,89,21927.0,662.0,yes,309.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,Forces of Paul Joseph Mukungubila,,4286.0,2013.0,2013.0,283.0,12463.0,89,21927.0,92.0,yes,310.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,Kamuina Nsapu,,6590.0,2016.0,2018.0,283.0,14929.0,89,21927.0,3499.0,yes,311.0,,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,Kata Katanga,,3967.0,2013.0,2014.0,265.0,12009.0,89,21927.0,153.0,yes,312.0,,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,M23,March 23 Movement / Mouvement du 23-Mars,1160.0,2012.0,2017.0,283.0,11982.0,89,21927.0,1840.0,yes,313.0,,37.0,2.0,7.0,4.0,2.0,1.0,12.0,6.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,MLC,Mouvement pour la Libération du Congo / Movement for the Liberation of Congo,423.0,1998.0,2000.0,283.0,585.0,89,21927.0,2570.0,yes,314.0,,3.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,MNR,Mouvement National des Révolutionnaires / National Movement for the Revolution,6740.0,2017.0,2017.0,283.0,15135.0,89,21927.0,73.0,yes,315.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,RCD,The Rassemblement Congolais pour la Démocratie / Congolese Rally for Democracy,424.0,1998.0,2001.0,283.0,586.0,89,21927.0,5399.0,yes,316.0,,19.0,1.0,5.0,3.0,0.0,0.0,1.0,4.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0
+Hannes,yes,yes,yes,Government of DR Congo (Zaire),yes,UPLC,Union des Patriotes pour la Libération du Congo / Union of Patriots for the Liberation of Congo,6894.0,2018.0,2018.0,283.0,15336.0,89,21927.0,40.0,yes,317.0,,4.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,al-Murabitun,al-Murabitun / The Sentinel,4376.0,2014.0,2014.0,11347.0,12582.0,72,2972.0,48.0,no,318.0,,7.0,0.0,2.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,Ansar Dine,Defenders of the Faith / Ansar al-Dine,1157.0,2012.0,2016.0,11347.0,11986.0,72,2972.0,299.0,no,319.0,,27.0,1.0,3.0,0.0,0.0,0.0,3.0,6.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Mali,no,AQIM,Qaida al-Jihad fi Bilad al-Maghrib al-Islami / al-Qaida Organisation in the Islamic Maghreb,539.0,1999.0,2018.0,11347.0,12575.0,72,2972.0,6734.0,no,320.0,,109.0,5.0,29.0,12.0,1.0,2.0,2.0,31.0,18.0,3.0,0.0,0.0,1.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,ATNMC,North Mali Tuareg Alliance for Change / Alliance Touareg Nord Mali pour le Changement,523.0,2007.0,2009.0,372.0,802.0,72,2972.0,190.0,no,321.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,CMA,Coordination des Mouvements de l’Azawad /  Coordination of Azawad Movements,1158.0,2012.0,2015.0,372.0,11985.0,72,2972.0,279.0,no,322.0,,9.0,0.0,3.0,1.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,FIAA,Front islamique arabe de l’Azaouad / Islamic Arab Front of Azawad,522.0,1994.0,1994.0,372.0,801.0,72,2972.0,106.0,no,323.0,,6.0,0.0,1.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,FLM,Macina Liberation Front / Front de Libération du Macina,6267.0,2015.0,2015.0,13611.0,14610.0,72,2972.0,44.0,no,324.0,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Mali,no,IS,,234.0,2004.0,2018.0,14113.0,15259.0,72,2972.0,127471.0,no,325.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,JNIM,Group for the Support of Islam and Muslims / Jamaat Nusrat al-Islam wal-Muslimin,6716.0,2017.0,2018.0,11347.0,15108.0,72,2972.0,681.0,no,326.0,,47.0,2.0,3.0,3.0,2.0,0.0,4.0,8.0,15.0,10.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,Military faction (Red Berets),,1164.0,2012.0,2012.0,11347.0,11987.0,72,2972.0,27.0,no,327.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,MPA,Mouvement populaire de l’Azaouad / Azawad Peoples Movement,521.0,1990.0,1990.0,372.0,800.0,72,2972.0,203.0,no,328.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,MUJAO,"Mouvement pour le Tawhîd et du Jihad en Afrique de l'Ouest / Group Committed to Propagating the Prophet's Teachings and Jihad, Movement for Oneness and Jihad in West Africa",1161.0,2012.0,2013.0,11347.0,12571.0,72,2972.0,358.0,no,329.0,,38.0,0.0,5.0,1.0,8.0,0.0,2.0,7.0,6.0,4.0,0.0,0.0,0.0,3.0,0.0
+Hannes,yes,yes,yes,Government of Mali,yes,Signed-in-Blood Battalion,Signed-in-Blood Battalion / al-Mouwakoune Bi-Dima,3481.0,2013.0,2013.0,11347.0,12578.0,72,2972.0,68.0,no,330.0,,9.0,0.0,3.0,1.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sierra Leone,yes,AFRC,Armed Forces Revolutionary Council,533.0,1997.0,1999.0,382.0,819.0,80,11473.0,4833.0,yes,331.0,,14.0,0.0,4.0,2.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Hannes,yes,yes,yes,Government of Sierra Leone,yes,Kamajors,,534.0,1997.0,1998.0,382.0,820.0,80,11473.0,1052.0,yes,332.0,,30.0,0.0,13.0,3.0,1.0,0.0,2.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sierra Leone,yes,RUF,Revolutionary United Front,532.0,1991.0,2001.0,382.0,818.0,80,11473.0,5561.0,yes,333.0,,116.0,9.0,26.0,15.0,3.0,1.0,12.0,21.0,3.0,0.0,1.0,0.0,3.0,9.0,0.0
+Hannes,yes,yes,yes,Government of Sierra Leone,yes,WSB,West Side Boys / West Side Niggaz / West Side Junglers,535.0,2000.0,2000.0,382.0,821.0,80,11473.0,27.0,yes,334.0,,20.0,1.0,3.0,2.0,3.0,0.0,6.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,AIAI,Islamic Unity / al-Itahad al-Islami,542.0,1993.0,1999.0,329.0,718.0,97,89181.0,247.0,yes,335.0,,13.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,ARDUF,Afar Revolutionary Democratic Unity Front,520.0,1996.0,1996.0,363.0,791.0,97,89181.0,25.0,yes,336.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,no,Government of Ethiopia,yes,EPLF,Eritrean People’s Liberation Front,416.0,1989.0,1991.0,275.0,571.0,97,89181.0,43470.0,yes,337.0,,67.0,2.0,9.0,6.0,1.0,0.0,1.0,11.0,1.0,2.0,14.0,0.0,3.0,2.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,EPRDF,Ethiopian People’s Revolutionary Democratic Front,414.0,1989.0,1991.0,267.0,558.0,97,89181.0,41269.0,yes,338.0,,76.0,1.0,5.0,4.0,0.0,4.0,10.0,10.0,1.0,0.0,9.0,0.0,12.0,2.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,IGLF,Issa and Gurgura Liberation Front,1115.0,1991.0,1991.0,11447.0,10006.0,97,89181.0,100.0,yes,339.0,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,Military faction (forces of Amsha Desta and Merid Negusie),,413.0,1989.0,1989.0,267.0,559.0,97,89181.0,37.0,yes,340.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,Military faction (Harar garrison),Forces of Harar garrison,1215.0,1991.0,1991.0,267.0,12104.0,97,89181.0,602.0,yes,341.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,OLF,Oromo Liberation Front,551.0,1989.0,2016.0,413.0,869.0,97,89181.0,2145.0,yes,342.0,,65.0,1.0,17.0,12.0,0.0,0.0,0.0,5.0,21.0,4.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ethiopia,yes,ONLF,Ogaden National Liberation Front,497.0,1994.0,2016.0,329.0,719.0,97,89181.0,1286.0,yes,343.0,,18.0,1.0,6.0,3.0,0.0,0.0,0.0,2.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Haiti,yes,FLRN,National Front for the Liberation of Haiti / Front pour la Liberación et la Reconstruction Nationales,765.0,2004.0,2004.0,381.0,816.0,6,415.0,146.0,no,344.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Haiti,yes,Military faction (forces of Himmler Rebu and Guy Francois),,763.0,1989.0,1989.0,381.0,814.0,6,415.0,48.0,no,345.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Haiti,yes,Military faction (forces of Raol Cdras),,764.0,1991.0,1991.0,381.0,815.0,6,415.0,160.0,no,346.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Haiti,yes,OP Lavalas (Chimres),Organisations Populaires Lavalas / Popular Organisations Lavalas,766.0,2004.0,2004.0,381.0,817.0,6,415.0,61.0,no,347.0,,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mexico,yes,EPR,Popular Revolutionary Army / Ejercito Popular Revolucionario,768.0,1996.0,1996.0,400.0,851.0,10,182.0,37.0,no,348.0,,36.0,6.0,16.0,3.0,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mexico,yes,EZLN,Zapatista National Liberation Army / Ejército Zapatista de liberación nacional,767.0,1994.0,1994.0,400.0,850.0,10,182.0,145.0,no,349.0,,34.0,7.0,11.0,3.0,0.0,0.0,1.0,3.0,7.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of El Salvador,yes,FMLN,Frente farabundo Marti para la liberación nacional /  Farabundo Marti Front for National Liberation,755.0,1989.0,1991.0,316.0,697.0,13,5861.0,5861.0,yes,350.0,,52.0,1.0,12.0,2.0,0.0,0.0,2.0,26.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mozambique,yes,Ansar al-Sunnah,,7032.0,2018.0,2018.0,332.0,15516.0,100,4466.0,52.0,yes,351.0,,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Mozambique,yes,Renamo,Resistência nacional moçambicana / Mozambican National Resistance,498.0,1989.0,2016.0,332.0,722.0,100,4466.0,4414.0,yes,352.0,,35.0,4.0,16.0,3.0,0.0,0.0,5.0,4.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ivory Coast,yes,FDSI-CI,Forces de Défense et de Sécurité Impartiales de Côte d`Ivoire / Impartial Defense and Security Forces - Ivory Coast,1125.0,2011.0,2011.0,419.0,10842.0,76,908.0,50.0,no,353.0,,3.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ivory Coast,yes,FRCI,Forces Républicaines de Côte d'Ivoire / Republican Forces of Ivory Coast,558.0,2004.0,2011.0,419.0,882.0,76,908.0,95.0,no,354.0,,6.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ivory Coast,yes,MJP,Mouvement pour la justice et la paix / Movement for Justice and Peace,555.0,2003.0,2003.0,419.0,881.0,76,908.0,44.0,no,355.0,,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Ivory Coast,yes,MPCI,Mouvement Patriotique de la Côte d’Ivoire / Patriotic Movement of Ivory Coast,556.0,2002.0,2002.0,419.0,879.0,76,908.0,543.0,no,356.0,,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hannes,yes,yes,yes,Government of Ivory Coast,yes,MPIGO,Mouvement Populaire Ivorian du Grand Ouest / Ivorian Movement for the Greater West,557.0,2002.0,2003.0,419.0,880.0,76,908.0,176.0,no,357.0,,4.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Guinea-Bissau,yes,"Military Junta for the Consolidation of Democracy, Peace and Justice",,549.0,1998.0,1999.0,410.0,866.0,70,704.0,704.0,no,358.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Uganda,yes,ADF,Alliance of Democratic Forces,489.0,1996.0,2018.0,314.0,689.0,90,13658.0,3770.0,yes,359.0,,89.0,4.0,15.0,18.0,0.0,0.0,10.0,10.0,20.0,2.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Uganda,yes,LRA,Lord's Resistance Army,488.0,1989.0,2014.0,314.0,688.0,90,13658.0,8549.0,yes,360.0,,153.0,4.0,17.0,36.0,2.0,0.0,13.0,32.0,8.0,17.0,1.0,0.0,3.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Uganda,yes,UNRF II,Uganda National Rescue Front II,491.0,1997.0,1997.0,314.0,691.0,90,13658.0,35.0,yes,361.0,,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Uganda,yes,UPA,Uganda People's Army,486.0,1989.0,1992.0,314.0,686.0,90,13658.0,1106.0,yes,362.0,,8.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Uganda,yes,WNBF,West Nile Bank Front,490.0,1996.0,1996.0,314.0,690.0,90,13658.0,198.0,yes,363.0,,8.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Cameroon,yes,Ambazonia insurgents,,7332.0,2017.0,2018.0,14129.0,15895.0,83,2069.0,790.0,no,364.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,no,Government of Cameroon,no,IS,al-Dawla al-Islamiyya / Islamic State,234.0,2004.0,2018.0,13638.0,14666.0,83,2069.0,127471.0,no,365.0,,121.0,0.0,8.0,2.0,1.0,0.0,3.0,38.0,7.0,2.0,6.0,8.0,24.0,7.0,0.0
+Hannes,no,no,no,Government of Cameroon,no,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad / People Committed to Propagating the Prophet's Teachings and Jihad,1051.0,2009.0,2018.0,353.0,12422.0,83,2069.0,13018.0,no,366.0,,277.0,7.0,79.0,22.0,2.0,0.0,3.0,37.0,82.0,0.0,2.0,0.0,1.0,12.0,0.0
+Hannes,yes,yes,yes,Government of Venezuela,yes,Military faction (forces of Hugo Ch vez),,742.0,1992.0,1992.0,277.0,575.0,18,144.0,144.0,no,367.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Paraguay,yes,Military faction (forces of Andres Rodriguez),,724.0,1989.0,1989.0,220.0,426.0,24,150.0,150.0,no,368.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sri Lanka,yes,EPRLF,Eelam People's Revolutionary Liberation Front,322.0,1989.0,1989.0,352.0,778.0,145,61234.0,111.0,yes,369.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,yes,Government of Sri Lanka,yes,JVP,Janatha Vimukthi Peramuna / People's Liberation Front,281.0,1989.0,1990.0,313.0,674.0,145,61234.0,449.0,yes,370.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,no,Government of Sri Lanka,yes,LTTE,Thamil Eelam Viduthalai Puligal / Liberation Tigers of Tamil Eelam,320.0,1989.0,2009.0,352.0,776.0,145,61234.0,60674.0,yes,371.0,,176.0,9.0,22.0,7.0,3.0,0.0,19.0,30.0,30.0,27.0,1.0,5.0,8.0,2.0,5.0
+Hannes,no,no,no,Government of Burkina Faso,no,JNIM,,6716.0,2017.0,2018.0,360.0,15175.0,78,43.0,681.0,no,372.0,,47.0,2.0,3.0,3.0,2.0,0.0,4.0,8.0,15.0,10.0,0.0,0.0,0.0,0.0,0.0
+Hannes,yes,yes,no,Government of United States of America,yes,al-Qaida,al-qaeda,769.0,2001.0,2017.0,418.0,878.0,3,5347.0,5347.0,yes,373.0,,152.0,9.0,15.0,13.0,3.0,4.0,17.0,42.0,31.0,9.0,1.0,0.0,4.0,1.0,0.0
+Hannes,yes,no,no,,,EIJM ,Eritrean Islamic Jihad Movement,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hannes,no,no,yes,,,SLM/A-AK,Sudan Liberation Army/Movement - faction led by Ali Karbino,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hannes,no,no,no,,,SLM/A-AW,Sudan Liberation Army/Movement - faction led by Abdul Wahed Mohamed Nour,,,,,,,,,,,,8.0,0.0,1.0,1.0,0.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,no,no,no,,,SLM/A-MM,Sudan Liberation Army/Movement - faction led by Minni Minnawi,,,,,,,,,,,,7.0,0.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Hannes,no,no,no,,,SPLM-N,Sudan People’s Liberation Movement - North,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,Government of South Sudan,,Lou Nuer,,706.0,,,,,,,,,,,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,Government of South Sudan,,Murle,,655.0,,,,,,,,,,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,SSDM/A - Upper Nile Faction,,,,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,Government of South Sudan,,SSDM/A-Athor ,,,,,,,,,,,,,8.0,0.0,2.0,1.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,no,,,,yes,IS-WA (IS West Africa),See https://www.calibreobscura.com/the-weaponary-of-is-west-africa-boko-haram/ and https://www.calibreobscura.com/dangerous-developments-the-weaponry-of-iswa-part-2/,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,SSDM/A-Upper Nile Faction ,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,Mungiki,,,,,,,,,,,,,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,SLDF,,,,,,,,,,,,,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,FOR INTERNAL REFERENCERING,,"Multiple groups, see comments",For when a source includes information without discerning between two or more groups. We include the specific groups in the comments of the data entry.,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

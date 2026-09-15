@@ -1,0 +1,37 @@
+{
+  "sample_n": 360,
+  "validation": {
+    "validation_rows_before_actor_restriction": 173,
+    "validation_rows_after_actor_restriction": 159,
+    "validation_rows_excluded": 14,
+    "validation_actor_counts": {
+      "Hamas": 78,
+      "Taliban": 52,
+      "FARC family": 29
+    },
+    "article_actor_linkage": {
+      "n_unique_articles_before_remaining_multi_actor_exclusion": 117172,
+      "n_article_analysis_actor_rows_before_remaining_multi_actor_exclusion": 117536,
+      "n_remaining_multi_actor_articles_after_grouping": 272,
+      "n_remaining_multi_actor_article_rows_after_grouping": 636,
+      "exclude_remaining_multi_actor_articles": true,
+      "n_unique_articles_used_for_llm_actor_month": 116900,
+      "n_article_analysis_actor_rows_used_for_llm_actor_month": 116900,
+      "n_excluded_remaining_multi_actor_articles": 272
+    }
+  },
+  "priors": {
+    "gamma_1_10": "Gamma(1,10), mean 0.1",
+    "halfnormal_1": "Half-Normal(0,1), mean 0.798",
+    "gamma_2_2": "Gamma(2,2), mean 1.0"
+  },
+  "quadrature_nodes": 128,
+  "hmc": {
+    "warmup": 1000,
+    "samples_per_chain": 2000,
+    "chains": 4,
+    "target_accept": 0.92
+  },
+  "preferred_sigma_y_prior": "gamma_1_10",
+  "comparison_baseline": "gamma_1_10"
+}
