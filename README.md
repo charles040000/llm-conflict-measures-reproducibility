@@ -12,7 +12,7 @@ The final labeled analytical corpus contains 116,900 articles after excluding 27
 analysis/       panel construction, validation, regressions, corrections, and figures
 pipeline/       GDELT retrieval, scraping, cleaning, actor matching, and translation
 labeling/       OpenAI labeling and manual-labeling tools
-prompts/        finalized system and article prompts
+prompts/        finalized prompts and documentation of both development versions
 data/
   processed/    compact article labels and model-ready panels
   reference/    actor names, aliases, and grouping rules
