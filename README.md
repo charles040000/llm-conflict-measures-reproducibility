@@ -175,4 +175,4 @@ The checked-in VIIRS panels allow the model stage to be rerun without Earth Engi
 
 The compact release reproduces the reported statistical analysis but not a frozen copy of the external news universe. GDELT records, source websites, model availability, and external datasets can change. A fresh end-to-end acquisition run can therefore differ from the archived 2020-2025 corpus even when the code and prompts are unchanged.
 
-No API keys, Google credentials, private local paths, full article text, or LaTeX report files are included.
+No API keys, Google credentials are included.
